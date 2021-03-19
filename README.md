@@ -7,3 +7,5 @@ Petrovici Stefan\
 Crainiciuc Stefan Calin\
 George Stoica\
 Daria Popovici
+
+![gif](./docs/carca.gif)
